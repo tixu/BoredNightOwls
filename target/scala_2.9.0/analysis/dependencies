@@ -1,0 +1,9 @@
+#Source Dependencies
+#Mon Jun 06 07:03:38 CEST 2011
+src/main/scala/be/xavier/boot/Boot.scala=
+src/main/scala/be/xavier/actors/ReadActor.scala=src/main/scala/be/xavier/services/FirstService.scala
+src/main/scala/be/xavier/bean/RestTrait.scala=src/main/scala/be/xavier/actors/ReadActor.scala
+src/main/scala/be/xavier/actors/FirstActor.scala=src/main/scala/be/xavier/services/FirstService.scala
+src/main/scala/be/xavier/actors/dao/Dao.scala=src/main/scala/be/xavier/actors/ReadActor.scala
+src/main/scala/be/xavier/services/FirstService.scala=src/main/scala/be/xavier/boot/Boot.scala
+src/main/scala/be/xavier/bean/Response.scala=src/main/scala/be/xavier/actors/dao/Dao.scala

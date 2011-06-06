@@ -1,0 +1,12 @@
+#External Dependencies
+#Mon Jun 06 06:53:03 CEST 2011
+/home/security/workspace/Akka2/project/plugins/target/scala_2.7.7/plugin-classes/de/element34/sbteclipsify/Eclipsify.class=Project.scala
+/home/security/workspace/Akka2/project/plugins/target/scala_2.7.7/plugin-classes/AkkaBaseProject$class.class=Project.scala
+/home/security/workspace/Akka2/project/plugins/target/scala_2.7.7/plugin-classes/AkkaBaseProject.class=Project.scala
+/home/security/workspace/Akka2/project/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.7/ivy_2.7.7-0.7.7.jar=Project.scala
+/home/security/workspace/Akka2/project/plugins/target/scala_2.7.7/plugin-classes/AkkaProject$class.class=Project.scala
+/home/security/workspace/Akka2/project/boot/scala-2.7.7/lib/scala-library.jar=Project.scala
+/home/security/workspace/Akka2/project/plugins/target/scala_2.7.7/plugin-classes/de/element34/sbteclipsify/Eclipsify$class.class=Project.scala
+/usr/lib/jvm/java-6-openjdk/jre/lib/rt.jar=Project.scala
+/home/security/workspace/Akka2/project/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.7/sbt_2.7.7-0.7.7.jar=Project.scala
+/home/security/workspace/Akka2/project/plugins/target/scala_2.7.7/plugin-classes/AkkaProject.class=Project.scala

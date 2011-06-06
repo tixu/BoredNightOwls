@@ -1,0 +1,7 @@
+digraph dependencies {
+"be.xavier.boot" -> "be.xavier.services"
+"be.xavier.services" -> "be.xavier.actors"
+"be.xavier.actors" -> "be.xavier.actors.dao"
+"be.xavier.actors.dao" -> "be.xavier.bean"
+"be.xavier.actors" -> "be.xavier.bean"
+}

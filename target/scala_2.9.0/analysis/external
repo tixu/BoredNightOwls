@@ -1,0 +1,8 @@
+#External Dependencies
+#Mon Jun 06 07:03:38 CEST 2011
+/usr/lib/jvm/java-6-openjdk/jre/lib/rt.jar=src/main/scala/be/xavier/bean/Response.scala\:src/main/scala/be/xavier/boot/Boot.scala\:src/main/scala/be/xavier/services/FirstService.scala\:src/main/scala/be/xavier/bean/RestTrait.scala\:src/main/scala/be/xavier/actors/ReadActor.scala\:src/main/scala/be/xavier/actors/FirstActor.scala\:src/main/scala/be/xavier/actors/dao/Dao.scala
+/home/security/workspace/Akka2/project/boot/scala-2.9.0/lib/scala-library.jar=src/main/scala/be/xavier/bean/Response.scala\:src/main/scala/be/xavier/boot/Boot.scala\:src/main/scala/be/xavier/services/FirstService.scala\:src/main/scala/be/xavier/bean/RestTrait.scala\:src/main/scala/be/xavier/actors/ReadActor.scala\:src/main/scala/be/xavier/actors/FirstActor.scala\:src/main/scala/be/xavier/actors/dao/Dao.scala
+/home/security/workspace/Akka2/lib_managed/scala_2.9.0/provided/javax.servlet-3.0.jar=src/main/scala/be/xavier/actors/ReadActor.scala
+/home/security/workspace/Akka2/lib_managed/scala_2.9.0/compile/sjson_2.9.0-0.11.jar=src/main/scala/be/xavier/bean/Response.scala\:src/main/scala/be/xavier/bean/RestTrait.scala
+/home/security/workspace/Akka2/lib_managed/scala_2.9.0/compile/akka-http-1.1.jar=src/main/scala/be/xavier/boot/Boot.scala\:src/main/scala/be/xavier/services/FirstService.scala\:src/main/scala/be/xavier/actors/ReadActor.scala\:src/main/scala/be/xavier/actors/FirstActor.scala
+/home/security/workspace/Akka2/lib_managed/scala_2.9.0/compile/akka-actor-1.1.jar=src/main/scala/be/xavier/boot/Boot.scala\:src/main/scala/be/xavier/services/FirstService.scala\:src/main/scala/be/xavier/actors/ReadActor.scala\:src/main/scala/be/xavier/actors/FirstActor.scala\:src/main/scala/be/xavier/actors/dao/Dao.scala

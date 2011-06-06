@@ -1,0 +1,9 @@
+#Source Hashes
+#Mon Jun 06 07:03:38 CEST 2011
+src/main/scala/be/xavier/boot/Boot.scala=702d516685f97fd69956551a6f33706c2914de76
+src/main/scala/be/xavier/actors/ReadActor.scala=bf839ac5c1532c5549ce3a89f8de6e91e792313f
+src/main/scala/be/xavier/bean/RestTrait.scala=89e727d3423277bfb2a709f0f8e38f51b814ba36
+src/main/scala/be/xavier/actors/FirstActor.scala=ff41f061bc7afc235a9057bab0bb4357ede42f92
+src/main/scala/be/xavier/actors/dao/Dao.scala=034bace11d1bd5378e9bd5d8c2bd4a6d9218d19b
+src/main/scala/be/xavier/services/FirstService.scala=f37e1fb9309d39e0c65794679153012357b5978c
+src/main/scala/be/xavier/bean/Response.scala=5505acbf03873d41776504e9d7defd65f9b019dd
