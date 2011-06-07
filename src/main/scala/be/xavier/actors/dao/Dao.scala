@@ -5,11 +5,13 @@ import akka.http._
 import akka.event.EventHandler
 import akka.event.EventHandler._
 import be.xavier.bean.{ Response, Data,MetaInformation }
+import com.mongodb.casbah.Imports._
 
 case class Read(val key: String) {}
 
 object Dao {
 
+ 
   val dictionnary = HashMap[String, Response]()
   val meta = MetaInformation(qos = "", quality = "")
   val data = Data(niss="123",content="ddddddddddddddddddddddd")
